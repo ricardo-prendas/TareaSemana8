@@ -1,0 +1,57 @@
+h1{
+   font-family: 'Fruktur', cursive;
+   color:tomato;
+   text-align: center;
+}
+h2{
+    text-align: center;
+    color:tomato;
+}
+.ul{
+ font-style: italic;
+}
+table{
+    font-family: 'Passion One', cursive;
+
+    color:black;
+}
+.estilo{
+
+    font-family: 'Press Start 2P', cursive; font-weight:700;
+}
+.contenedor {
+        background-color:#0f2851;
+        width: 100%;
+        height: auto;
+}
+
+.contenido {
+    background-color:#aec9de;
+    width: 50%;
+    height: auto;
+}
+
+.contenedor {
+    display: flex;
+    align-items: center;
+}
+.contenido {
+    margin: auto; 
+}
+
+.listas{
+    color: brown;
+    font-family: 'Over the Rainbow', cursive;
+}
+.listas2{
+    font-family: 'Henny Penny', cursive;
+}
+button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 7px;
+}
